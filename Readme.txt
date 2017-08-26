@@ -1,7 +1,8 @@
 ■ ABOUT US:
 The MAP is an  group formed in IOTACADEMY, MAP consisted of Mahsa Fotovvat and Fatemeh Bakhshi.
 ■ ABOUT PROJECT:
-Our project is about a intelligence brecelet in order to help old people, it can measure heartbeat,so can detect Arrhythmia disease.
+Our project is about a intelligence brecelet in order to help old people, 
+it can measure heartbeat,so can detect Arrhythmia disease.
 It can detect falling that is very dangerous to elder. 
 It has clock too. in other word,It's a smart watch.
 we also have a pillbox that the led of each box turn on at right time that we shoud use pill.
